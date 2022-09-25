@@ -48,3 +48,4 @@
 [Lolwid|4277]
 [FLuXy|10667]
 [oxx|10872]
+[SpinWizard|4538]
